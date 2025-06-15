@@ -1,0 +1,104 @@
+/* .navbar
+{
+    width: 100%;
+    height: 5rem;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4px;
+    border: 4px solid red;
+
+}
+
+.title
+{
+    font-size: 30px;
+    font-family: "Black Ops One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    
+}
+
+.title:hover{
+    text-shadow: 0 0 3px #6ba3f7c5;
+}
+
+.search-box{
+    width: 25%;
+    background-color: #f1feffd7;
+    margin-left:100px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 4px 6px 0 rgba(14, 13, 85, 0.4), 0 6px 10px 0 rgba(0, 0, 0, 0.39);
+}
+
+.search-box:hover
+{
+    background-color: #eafaffd7;
+}
+
+
+.search-box input{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: #0d2373;
+    
+}
+.search-box input::placeholder{
+    color: #4c5d72ec;
+
+}
+.search-box button{
+    margin-left: 5px;
+    background-color:transparent;
+    color: #040073c9;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.menuItems
+{
+   
+    display: flex;
+    gap: 45px;
+    list-style: none;
+    
+}
+.menuItems a{
+    font-family: "Eczar", serif;
+    font-weight: 450;
+    font-size: 20px;
+    text-decoration: none;
+    transition: .2s ease-in;
+}
+
+.content:hover{
+    font-weight: 550;
+    color: rgb(3, 3, 103);
+    transition: .2s ease-in;
+    text-shadow: 0 0 3px #88d5ff;
+}
+
+.log-sig{
+    padding: 3px 12px 3px 12px;
+    width: 5rem;
+    border: 0.5px solid rgb(16, 10, 195);
+    border-radius: 24px;
+    background-color: #1d20c7f2;
+    color: rgb(218, 243, 252);
+}
+
+.log-sig:hover
+{
+    background-color: #1c5fe4;
+    border: 0.5px solid rgb(39, 122, 247);
+    box-shadow: 0 2px 4px 0 rgba(152, 202, 245, 0.508), 0 3px 6px 0 rgba(144, 210, 243, 0.39);
+} */
